@@ -1,2 +1,2 @@
 # XLabs-Extensions-
-Extensions for XLabs app.
+Extensions for XLabs app
